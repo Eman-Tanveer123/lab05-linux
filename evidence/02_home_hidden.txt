@@ -1,0 +1,18 @@
+total 68
+drwxr-x--- 10 eman-tanveer123 eman-tanveer123 4096 Oct 16 07:00 .
+drwxr-xr-x  3 root            root            4096 Sep 14 04:48 ..
+-rw-------  1 eman-tanveer123 eman-tanveer123  657 Oct  9 09:50 .bash_history
+-rw-r--r--  1 eman-tanveer123 eman-tanveer123  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 eman-tanveer123 eman-tanveer123 3771 Feb 13  2026 .bashrc
+drwx------  2 eman-tanveer123 eman-tanveer123 4096 Sep 14 04:59 .cache
+-rw-------  1 eman-tanveer123 eman-tanveer123  157 Oct 10 07:01 .git-credentials
+-rw-rw-r--  1 eman-tanveer123 eman-tanveer123  219 Oct 16 06:59 .gitconfig
+-rw-------  1 eman-tanveer123 eman-tanveer123   20 Sep 19 07:11 .lesshst
+drwx------  3 eman-tanveer123 eman-tanveer123 4096 Oct 10 06:42 .local
+-rw-r--r--  1 eman-tanveer123 eman-tanveer123  807 Feb 13  2026 .profile
+drwx------  3 eman-tanveer123 eman-tanveer123 4096 Oct 16 06:56 .ssh
+drwxrwxr-x  4 eman-tanveer123 eman-tanveer123 4096 Oct 10 07:00 Assignment01
+drwxrwxr-x  3 eman-tanveer123 eman-tanveer123 4096 Oct  9 09:59 CC
+drwxrwxr-x  3 eman-tanveer123 eman-tanveer123 4096 Oct  9 09:54 Gitea
+drwxrwxr-x  5 eman-tanveer123 eman-tanveer123 4096 Oct 16 07:01 lab05-linux
+drwxrwxr-x  3 eman-tanveer123 eman-tanveer123 4096 Oct 10 05:48 portfolio
